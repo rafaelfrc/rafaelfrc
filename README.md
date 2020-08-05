@@ -1,3 +1,5 @@
+
+
 <!--
 **rafaelfrc/rafaelfrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +17,5 @@
 - 💬 Ask me about automation and industrial technology
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfrc&count_private=true&show_icons=true?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfrc)](https://github.com/anuraghazra/github-readme-stats)
