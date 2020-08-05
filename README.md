@@ -15,6 +15,8 @@
 
 -->
 
+![](aaa.jpg)
+
 # Industrial IoT Developer
 
 - I’m currently working on operation of DCS systems in Refining Processes
