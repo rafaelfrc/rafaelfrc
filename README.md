@@ -15,7 +15,7 @@
 
 -->
 
-![](aaa.jpg)
+
 
 # Industrial IoT Developer
 
