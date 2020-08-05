@@ -16,6 +16,8 @@
 - 🌱 I’m currently learning design of cyber physical systems, deep learning and cibersecurity  
 - 💬 Ask me about automation and industrial technology
 
+![](aaa.jpeg)
+
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfrc&count_private=true&show_icons=true?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfrc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
