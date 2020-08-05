@@ -10,14 +10,16 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on development of IoT industrial instrumentation systems  
-- 🌱 I’m currently learning design of cyber physical systems, deep learning and cibersecurity  
-- 💬 Ask me about automation and industrial technology
-
-![](aaa.jpeg)
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfrc&count_private=true&show_icons=true?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+![](aaa.jpg)
+# Industrial IoT Developer
+
+- I’m currently working on operation of DCS systems in Refining Processes
+- I am currently researching and developing industrial IoT instrumentation systems
+- I’m currently learning design of cyber physical systems, deep learning and cibersecurity  
+- Ask me about automation and industrial technology
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfrc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
