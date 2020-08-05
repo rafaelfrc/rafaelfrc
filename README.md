@@ -16,7 +16,7 @@
 -->
 
 
-
+![](fundo.jpg)
 # Industrial IoT Developer
 
 - I’m currently working on operation of Distributed Control Systems in Refining Processes
