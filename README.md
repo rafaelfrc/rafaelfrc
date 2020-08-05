@@ -19,7 +19,7 @@
 
 # Industrial IoT Developer
 
-- I’m currently working on operation of DCS systems in Refining Processes
+- I’m currently working on operation of Distributed Control Systems in Refining Processes
 - I am currently researching and developing industrial IoT instrumentation systems
 - I’m currently learning design of cyber physical systems, deep learning and cibersecurity  
 - Ask me about automation and industrial technology
