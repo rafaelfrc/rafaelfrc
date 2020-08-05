@@ -2,7 +2,7 @@
 
 <!--
 **rafaelfrc/rafaelfrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](fundo.jpg)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
@@ -16,7 +16,7 @@
 -->
 
 
-![](fundo.jpg)
+
 # Industrial IoT Developer
 
 - I’m currently working on operation of Distributed Control Systems in Refining Processes
